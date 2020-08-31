@@ -1,6 +1,6 @@
 # https-trabalhonaespanha.com-
-Nova pagina, em espanhou
-Inicoi de novo projeto de pagina em  Espanhou
+Nova pagina, em espanhol
+Inicoi de novo projeto de pagina em  Espanhol
 Pagina principal
 Quem somos
 Morar na Espanha
